@@ -37,7 +37,7 @@ The following is a working example of a ShowAction
 .. code-block:: php
 
     <?php
-    // src/Acme/DemoBundle/Admin/PostAdmin.php
+    // src/Acme/DemoBundle/Admin/ClientAdmin.php
 
     class ClientAdmin extends Admin
     {
